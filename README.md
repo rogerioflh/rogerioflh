@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, Eu sou Rogério Filho. Bem vindo ao meu perfil pessoal do Github!
 
-<!--
-**rogeri0-filho/rogeri0-filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/rogeri0-filho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeri0-filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="41%" heigth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeri0-filho&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+
+  ![Snake animation](https://github.com/rogeri0-filho/rogeri0-filho/blob/output/github-contribution-grid-snake.svg) 
+  
+</div>

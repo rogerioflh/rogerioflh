@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeri0-filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="41%" heigth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeri0-filho&layout=compact&langs_count=16&theme=dark"/>
 </div>
-##
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

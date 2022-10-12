@@ -6,10 +6,6 @@
   <img width="41%" heigth="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeri0-filho&layout=compact&langs_count=16&theme=dark"/>
 </div>
 ##
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

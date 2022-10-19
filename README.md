@@ -1,4 +1,4 @@
-# Olá, Eu sou Rogério Filho. Bem vindo ao meu perfil pessoal do Github!
+# Olá 👋🏻, Eu sou Rogério. Bem vindo ao meu perfil pessoal do Github!
 
 <div align="center">
   <a href="https://github.com/rogeri0-filho">

@@ -23,6 +23,9 @@
 
 <div>
 
-  ![Snake animation](https://github.com/rogeri0-filho/rogeri0-filho/blob/output/github-contribution-grid-snake.svg)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/rogeri0-filho/rogeri0-filho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/rogeri0-filho/rogeri0-filho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ 
+ 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
   
 </div>

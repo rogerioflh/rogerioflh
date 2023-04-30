@@ -1,4 +1,7 @@
 # Hello 🖖🏻, I'm Rogério!
+- Atualmente estudando C++ e Java;
+- Cursando Matemática pela Universidade Federal de Alagoas;
+
 
 <div align="center">
   <a href="https://github.com/rogeri0-filho">

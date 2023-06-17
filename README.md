@@ -1,5 +1,5 @@
 # Hello 🖖🏻, I'm Rogério!
-- Atualmente estudando C++ e Java;
+- Atualmente estudando C++, Java e Python;
 - Cursando Matemática pela Universidade Federal de Alagoas;
 
 

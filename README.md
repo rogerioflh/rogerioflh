@@ -26,7 +26,3 @@
 ##
 
 <div>
-
-  ![Snake animation](https://github.com/rogeri0-filho/rogeri0-filho/blob/output/github-contribution-grid-snake.svg)
-  
-</div>

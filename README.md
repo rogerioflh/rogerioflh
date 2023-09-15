@@ -1,7 +1,7 @@
 # Hello 🖖🏻, I'm Rogério!
-- Atualmente estudando C++, Java e Python;
+- Atualmente estudando C++, Java, Python e Flask;
 - Cursando Matemática pela Universidade Federal de Alagoas;
-
+- Open to Work
 
 <div align="center">
   <a href="https://github.com/rogeri0-filho">

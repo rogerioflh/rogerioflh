@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 # Hello 🖖🏻, I'm Rogério!
 - Atualmente estudando C++, Java, Python e Flask;
 - Cursando Matemática pela Universidade Federal de Alagoas;
@@ -29,3 +31,5 @@
 ##
 
 <div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

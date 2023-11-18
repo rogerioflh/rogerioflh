@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Hello🖖,I'mRogério!&colorAuto=true&fontSize=40"/>
 
-- Atualmente estudando C++, Java, Python e Flask;
+- Atualmente estudando C++, Java e Flask;
 - Cursando Matemática pela Universidade Federal de Alagoas;
 - Open to Work
 

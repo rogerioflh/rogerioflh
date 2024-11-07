@@ -2,12 +2,12 @@
 
 - Cursando Matemática pela Universidade Federal de Alagoas;
 - Open to Work
-- [outras formas de contato](https://rogerioflh.github.io/rogeriof.com/)
+- [outras formas de contato](https://rogerioflh.github.io/)
 
 <div align="center">
   <a href="https://github.com/rogerioflh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeri0-filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeri0-filho&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerioflh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerioflh&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 </p>

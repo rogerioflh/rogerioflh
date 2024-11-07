@@ -5,7 +5,7 @@
 - [outras formas de contato](https://ogerioflh.github.io/rogeriof.com/)
 
 <div align="center">
-  <a href="https://github.com/rogeri0-filho">
+  <a href="https://github.com/rogeriof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeri0-filho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeri0-filho&layout=compact&langs_count=16&theme=dark"/>
 </div>

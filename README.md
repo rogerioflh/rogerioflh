@@ -2,7 +2,7 @@
 
 - Cursando Matemática pela Universidade Federal de Alagoas;
 - Open to Work
-- [outras formas de contato](https://rogeri0-filho.github.io/rogeriof.com/)
+- [outras formas de contato](https://ogerioflh.github.io/rogeriof.com/)
 
 <div align="center">
   <a href="https://github.com/rogeri0-filho">

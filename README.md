@@ -16,12 +16,12 @@
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="intellij" width="40" height="40"/> </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jb-clion-icon-512x512-uxqueob8.png" alt="clion" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </p>
 
 <div>

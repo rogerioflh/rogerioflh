@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Hello🖖,I'mRogério!&colorAuto=true&fontSize=40"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header&text=Hello🖖,I'mRogério!&colorAuto=true&fontSize=40"/>
 
 - Cursando Matemática pela Universidade Federal de Alagoas;
 - Open to Work
